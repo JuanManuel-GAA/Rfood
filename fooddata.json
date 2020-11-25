@@ -1,0 +1,145 @@
+[
+  {
+    "popular": [
+      {
+        "name": "Plato Tipico",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/f_bandejitapaisa.png?token=AP33LOQERAIU7HPSX4RHUHC7XZCQY",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "12.000",
+        "note": "Extra special"
+      },
+      {
+        "name": "Punta de anca",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/punta_anca.png?token=AP33LOX37VHYVONMILS2IIS7XZCSO",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "10.000",
+        "note": "Special"
+      },
+      {
+        "name": "Mondongo",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Mondongo.png?token=AP33LOTYY3W7THPKXLVXHLK7XZCNA",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Delivery charges 50 extra",
+        "price": "20.000",
+        "note": "Chilly"
+      },
+{
+        "name": "Sancocho",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Sancocho.png?token=AP33LOVNKCGGAS7JOQ46CIK7XZCO6",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "25.000",
+        "note": "Special, Spicy"
+      },
+      {
+        "name": "Churrasco",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Churrasco.png?token=AP33LOQG5E2O32DL3PI6RFS7XZCKQ",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "30.000",
+        "note": "Spicy"
+      }
+    ],
+    "recommended": [
+      {
+        "name": "Plato Tipico",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/f_bandejitapaisa.png?token=AP33LOQERAIU7HPSX4RHUHC7XZCQY",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "12.000",
+        "note": "Extra special"
+      },
+      {
+        "name": "Churrasco",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Churrasco.png?token=AP33LOQG5E2O32DL3PI6RFS7XZCKQ",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "30.000",
+        "note": "Spicy"
+      },
+      {
+        "name": "Sancocho",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Sancocho.png?token=AP33LOVNKCGGAS7JOQ46CIK7XZCO6",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "25.000",
+        "note": "Special, Spicy"
+      }
+    ],
+    "allmenu": [
+      {
+        "name": "Plato Tipico",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/f_bandejitapaisa.png?token=AP33LOQERAIU7HPSX4RHUHC7XZCQY",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "12.000",
+        "note": "Extra special"
+      },
+      {
+        "name": "Punta de anca",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/punta_anca.png?token=AP33LOX37VHYVONMILS2IIS7XZCSO",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "10.000",
+        "note": "Special"
+      },
+      {
+        "name": "Mondongo",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Mondongo.png?token=AP33LOTYY3W7THPKXLVXHLK7XZCNA",
+        "rating": "4.5",
+        "deliveryTime": "55 mins",
+        "deliveryCharges": "Delivery charges 50 extra",
+        "price": "20.000",
+        "note": "Chilly"
+      },
+      {
+        "name": "Sancocho",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Sancocho.png?token=AP33LOVNKCGGAS7JOQ46CIK7XZCO6",
+        "rating": "4.0",
+        "deliveryTime": "75 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "25.000",
+        "note": "Special, Spicy"
+      },
+      {
+        "name": "Ajiaco",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Ajiaco.png?token=AP33LOTS2HXVOHBAJ7377DS7XZDCI",
+        "rating": "4.9",
+        "deliveryTime": "35 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "20.000",
+        "note": "Special"
+      },
+      {
+        "name": "Solomo",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Solomo.png?token=AP33LOSWRNKCMRUCMZ2J3DS7XZDJM",
+        "rating": "5.0",
+        "deliveryTime": "45 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "150",
+        "note": ""
+      },
+      {
+        "name": "Churrasco",
+        "imageUrl": "https://raw.githubusercontent.com/JuanManuel-GAA/Rfood/main/Platos_1/Churrasco.png?token=AP33LOQG5E2O32DL3PI6RFS7XZCKQ",
+        "rating": "3.8",
+        "deliveryTime": "25 mins",
+        "deliveryCharges": "Free Delivery",
+        "price": "30.000",
+        "note": "Spicy"
+      }
+    ]
+  }
+]
